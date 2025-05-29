@@ -12,14 +12,14 @@ This is a simple todo list application built with React. It allows users to:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/akbhati32/ToDo-App
-   cd todo-list-react
+   cd ToDo-App
 
 2. **Install node modules**
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 3. **Run server**
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
 
 4. **Open localhost server on browser**
