@@ -15,9 +15,11 @@ This is a simple todo list application built with React. It allows users to:
    cd todo-list-react
 
 2. **Install node modules**
+  ```bash
   npm install
 
 3. **Run server**
+  ```bash
   npm run dev
 
 4. **Open localhost server on browser**
